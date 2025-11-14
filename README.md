@@ -1,4 +1,4 @@
-# Quick Access Tool
+# Quick Access Tools
 
 <html lang="en">
 <head>
