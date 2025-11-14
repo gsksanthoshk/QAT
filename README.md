@@ -1,5 +1,3 @@
-# Quick Access Tools
-
 <html lang="en">
 <head>
   <meta charset="utf-8" />
